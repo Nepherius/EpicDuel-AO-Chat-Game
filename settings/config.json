@@ -1,0 +1,12 @@
+{
+  "User": "account",
+  "Password": "password",
+  "Botname": "Epicduel",
+  "Owner": "Super-admin Name",
+  "Org": "",
+  "Dimension": 1,
+  "Host": "localhost",
+  "Database": "epicduel",
+  "DbUser": "epicduel",
+  "DbPassword": ""
+}
